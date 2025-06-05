@@ -1,2 +1,2 @@
 # Nexus Software
-Home to the Nexus Engine
+Graphics programming research and game dev.
